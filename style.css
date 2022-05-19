@@ -1,0 +1,56 @@
+body{
+background-color: aquamarine;
+
+  
+}
+h2{
+    font-family:monospace;
+    margin: 20px;
+    padding: 20px;
+}
+.sushi:hover img{
+    opacity: 0.33;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+  }
+ 
+  .flex-container1 {
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+  }
+  .flex-container2 {
+    display: flex;
+    flex-direction: column;
+    background-color: purple;
+  }
+  .flex-container3 {
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+  }
+  .sushi {
+    display: flex;
+    flex-direction: column;
+    background-color:aqua;
+  }
+  .flex-container5 {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+  }
+  .s1:link{
+    
+    
+    color: blueviolet;
+  }
+  .s1:visited{
+   
+    color: firebrick;
+  }
+  .s1:hover{
+    color:darkorange;
+  }
